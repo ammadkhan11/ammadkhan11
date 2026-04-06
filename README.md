@@ -29,7 +29,7 @@ I develop neural architectures and machine learning pipelines that translate com
 ### 📫 Contact Me
 Let's connect and discuss AI/ML opportunities!
 
-]📧 **Email:** [khanammad449@gmail.com](mailto:khanammad449@gmail.com)
+📧 **Email:** [khanammad449@gmail.com](mailto:khanammad449@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/ammadkhan54](https://linkedin.com/in/ammadkhan54)
 📍 **Location:** Karachi, Pakistan 
 
