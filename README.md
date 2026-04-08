@@ -16,13 +16,26 @@ I develop neural architectures and machine learning pipelines that translate com
 ---
 
 ### 💻 Tech Stack
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Libraries:** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Languages:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**AI Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Libraries:**  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Deep Learning:** CNN, RNN, Seq2Seq, VGG16, Transfer Learning
+**AI Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Deep Learning:**  
+![CNN](https://img.shields.io/badge/CNN-%2300C853.svg?style=for-the-badge) 
+![RNN](https://img.shields.io/badge/RNN-%23009688.svg?style=for-the-badge) 
+![Seq2Seq](https://img.shields.io/badge/Seq2Seq-%234CAF50.svg?style=for-the-badge) 
+![VGG16](https://img.shields.io/badge/VGG16-%233F51B5.svg?style=for-the-badge) 
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF5722.svg?style=for-the-badge)
 
 ---
 
